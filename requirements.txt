@@ -2,7 +2,6 @@
 langchain
 langchain-openai
 langchain-community
-euri
 
 # Embeddings & vector database
 sentence-transformers
