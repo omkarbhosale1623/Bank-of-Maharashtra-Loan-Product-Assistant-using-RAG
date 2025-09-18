@@ -18,6 +18,4 @@ env/
 
 # Local data & indexes
 .env
-bom_data/
-faiss_index_bom/
 chroma_db/
